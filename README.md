@@ -4,6 +4,7 @@
 # How to use :
 
 Run :
- - gcc main.c -o generator 
+ - gcc main.c -o generator
+
 and then 
 - ./generator
